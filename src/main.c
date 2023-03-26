@@ -11,7 +11,6 @@
 /* ************************************************************************** */
 
 #include "../include/cub3d.h"
-#include <stdlib.h>
 
 int	cub3d_exit(t_vars *vars)
 {
